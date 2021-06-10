@@ -38,19 +38,8 @@
   </code>
 </p>
 
-#
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkmongit&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/nkmongit)
 
-<p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/nkmongit/nkmongit/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkmongit&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/nkmongit/nkmongit/blob/master/PNG/right.png">
-  </a>
-</p>
-
-#
 
 <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/nkmongit/nkmongit/blob/master/GIF/github.gif"></a>
 <br/>
