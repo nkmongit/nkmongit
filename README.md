@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "DocQueue"<br>👯 I’m looking to collaborate on any thing that make a change in world<br>🤝 I’m looking for help with learning Rust<br>🌱 I’m currently learning ReactJS, Web 3.0<br>💬 Ask me about coffee, web, and me<br>⚡ Fun fact I brought this on me
+🔭 I’m currently working on "DocQueue"<br>👯 I’m looking to collaborate on any thing that make a change in world<br>🤝 I’m looking for help with learning Rust<br>🌱 I’m currently learning ReactJS, Web 3.0<br>💬 Ask me about coffee and tech <br>⚡ Fun fact I brought this on me
 
 
 ## 🌐 Socials:
