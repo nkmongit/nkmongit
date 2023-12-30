@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on "DocQueue"<br>👯 I’m looking to collaborate on any thing that make a change in world<br>🤝 I’m looking for help with learning Rust<br>🌱 I’m currently exploring ReactJS and TypeScript<br>💬 Ask me about coffee and tech <br>⚡ Fun fact I brought this on me
+🚀 **Tech Explorer**: Embarking on hands-on projects to delve into the world of technology. Currently immersing myself in the realms of Go Lang and the MERN stack, striving to build innovative solutions.
+
+📚 **Continuous Learner**: Passionate about personal growth and expanding my horizons. Venturing into the captivating domains of open source and Web3, eager to contribute and learn.
+
+💻 **Code Enthusiast**: Excited about merging technology with creativity. Ask me about my coding journey, my adventures fueled by coffee, or anything related to the dynamic tech landscape!
 
 
 ## 🌐 Socials:
