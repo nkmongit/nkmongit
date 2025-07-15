@@ -14,9 +14,8 @@
 
 Currently building innovative solutions on the **Salesforce platform** with expertise in:
 - **Apex** development and **Lightning Web Components**
-- **Health Cloud** custom implementations
-- **Sales & Service Cloud** solutions
-- **AWS integrations** and middleware development
+- **Sales & Service Cloud** solutions & implementations
+- **Omnistudio** worked on no-code tools
 
 When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js**, and exploring the latest in cloud architecture.
 
