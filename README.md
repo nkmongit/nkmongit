@@ -20,12 +20,6 @@ Currently building innovative solutions on the **Salesforce platform** with expe
 
 When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js**, and exploring the latest in cloud architecture.
 
-## 🔥 Currently Working On
-
-- 🏗️ **Project:** [Add your current project name here]
-- 📚 **Learning:** [Add what you're currently learning - e.g., "Advanced Apex patterns and Enterprise Integration Patterns"]
-- 🎯 **Focus:** [Add your current focus area - e.g., "Implementing AI-powered solutions with Agentforce"]
-
 ## 📜 Certifications
 
 🏆 Salesforce Platform Developer I (PD1)  
