@@ -26,6 +26,8 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 [![Heroku](https://img.shields.io/badge/Heroku%20Developer-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 [![Agentforce Specialist](https://img.shields.io/badge/Agentforce%20Specialist-FFD700?style=for-the-badge&logo=star&logoColor=white)](#)
 
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="left">
@@ -34,6 +36,8 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=apex&logoColor=white" />
 <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Dataloader-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -53,6 +57,11 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 <!-- Database -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Salesforce_DB-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+
+<!-- Testing & Tools -->
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
