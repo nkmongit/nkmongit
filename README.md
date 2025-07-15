@@ -26,17 +26,39 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 🏆 Heroku Developer  
 🏆 Agentforce Specialist
 
-## 🛠️ Tech Stack
+---
 
-**Salesforce:** `Apex` `Lightning Web Components` `SOQL` `Salesforce APIs`
+## 🛠️ Tech Stack & Tools
 
-**Frontend:** `React` `JavaScript` `HTML5` `CSS3`
+<div align="left">
 
-**Backend:** `Node.js` `Express.js` 
+<!-- Salesforce -->
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=apex&logoColor=white" />
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
-**Cloud & DevOps:** `AWS` `Heroku` `Linux`
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Database:** `MongoDB` `Salesforce Database`
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<!-- Cloud & DevOps -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce_DB-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+
+</div>
+
+---
 
 ## 🌐 Let's Connect
 
