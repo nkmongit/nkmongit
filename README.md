@@ -1,5 +1,6 @@
-<div align="left" style="display: flex; flex-direction: column; gap: 10px;">
-  <img src="https://github.com/nkmongit/nkmongit/blob/main/NKM8BIT.png" alt="Your Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px; margin-top: 20px;"> <div> Hey folks, I'm NKM 👋</div>
+# Hey folks, I'm NKM 👋
+<div align="left">
+    <img src="https://github.com/nkmongit/nkmongit/blob/main/NKM8BIT.png" alt="Your Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px; margin-top: 20px;"> 
 </div>
 
 <div align="left">
