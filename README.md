@@ -27,7 +27,6 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=apex&logoColor=white" />
 <img src="https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.io/badge/SFDX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Dataloader-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
