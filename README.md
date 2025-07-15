@@ -5,6 +5,7 @@
 </div>
 
 <div align="left">
+
 **Salesforce Developer** • **Full-Stack Engineer**
 
 *Crafting scalable solutions at the intersection of Salesforce and modern web technologies*
