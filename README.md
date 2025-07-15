@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://github.com/nkmongit/nkmongit/blob/main/NKM8BIT.png" alt="nkm" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px;">
+</div>
+
 <div align="left">
 
 # Hey, I'm NKM 👋
 
-**Salesforce Developer** • **Full-Stack Engineer** 
+**Salesforce Developer** • **Full-Stack Engineer**
 
 *Crafting scalable solutions at the intersection of Salesforce and modern web technologies*
 
