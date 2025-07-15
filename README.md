@@ -22,11 +22,9 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 
 ## 📜 Certifications
 
-🏆 Salesforce Platform Developer I (PD1)  
-🏆 Heroku Developer  
-🏆 Agentforce Specialist
-
----
+[![Salesforce](https://img.shields.io/badge/Salesforce%20PD1-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#)
+[![Heroku](https://img.shields.io/badge/Heroku%20Developer-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![Agentforce Specialist](https://img.shields.io/badge/Agentforce%20Specialist-FFD700?style=for-the-badge&logo=star&logoColor=white)](#)
 
 ## 🛠️ Tech Stack & Tools
 
