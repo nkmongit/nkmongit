@@ -1,11 +1,9 @@
 # Hey folks, I'm NKM 👋
 
-**Salesforce Developer** • **Full-Stack Engineer**
-
 </div>
 
-<div align="center">
-  <img src="https://github.com/nkmongit/nkmongit/blob/main/NKM8BIT.png" alt="Your Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px; margin-top: 20px;">
+<div align="left">
+  <img src="https://github.com/nkmongit/nkmongit/blob/main/NKM8BIT.png" alt="Your Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px; margin-top: 20px;"> **Salesforce Developer** • **Full-Stack Engineer**
 </div>
 
 <div align="left">
