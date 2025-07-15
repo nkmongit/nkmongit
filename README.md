@@ -79,6 +79,4 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 
 *"Building bridges between Salesforce and the modern web"*
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=nkmongit&icon=3&color=1)](https://visitcount.itsvg.in)
-
 </div>
