@@ -5,9 +5,8 @@
 <div align="left">
   <img src="https://github.com/nkmongit/nkmongit/blob/main/NKM8BIT.png" alt="Your Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px; margin-top: 20px;"> 
 </div>
-**Salesforce Developer** • **Full-Stack Engineer**
 <div align="left">
-
+**Salesforce Developer** • **Full-Stack Engineer**
 *Crafting scalable solutions at the intersection of Salesforce and modern web technologies*
 
 ---
