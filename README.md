@@ -20,12 +20,6 @@ Currently building innovative solutions on the **Salesforce platform** with expe
 
 When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js**, and exploring the latest in cloud architecture.
 
-## 📜 Certifications
-
-[![Salesforce](https://img.shields.io/badge/Salesforce%20PD1-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#)
-[![Heroku](https://img.shields.io/badge/Heroku%20Developer-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
-[![Agentforce Specialist](https://img.shields.io/badge/Agentforce%20Specialist-FFD700?style=for-the-badge&logo=star&logoColor=white)](#)
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -34,7 +28,7 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=apex&logoColor=white" />
 <img src="https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.io/badge/SFDX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Dataloader-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -64,7 +58,7 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkmongit&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -76,7 +70,7 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 
 ## 🏆 GitHub Trophies
 
-<div align="left">
+<div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nkmongit&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
@@ -84,11 +78,19 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 
 ## 🔝 Top Contributed Repo
 
-<div align="left">
+<div align="center">
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nkmongit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
+
+---
+
+## 📜 Certifications
+
+[![Salesforce](https://img.shields.io/badge/Salesforce%20PD1-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#)
+[![Heroku](https://img.shields.io/badge/Heroku%20Developer-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![Agentforce Specialist](https://img.shields.io/badge/Agentforce%20Specialist-FFD700?style=for-the-badge&logo=star&logoColor=white)](#)
 
 ---
 
