@@ -50,6 +50,7 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ---
@@ -63,7 +64,7 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkmongit&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -75,7 +76,7 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="left">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nkmongit&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
@@ -83,7 +84,7 @@ When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js*
 
 ## 🔝 Top Contributed Repo
 
-<div align="center">
+<div align="left">
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nkmongit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
