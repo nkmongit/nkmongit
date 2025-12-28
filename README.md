@@ -30,23 +30,6 @@ I build scalable systems on Salesforce and modern web stacks, with a growing foc
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nkmongit&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkmongit&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nkmongit&theme=transparent&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=nkmongit&theme=flat&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🎓 Certifications
 
 ![PD1](https://img.shields.io/badge/Salesforce_PD1-00A1E0?style=flat&logo=salesforce&logoColor=white)
