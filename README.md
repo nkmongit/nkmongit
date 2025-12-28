@@ -1,97 +1,79 @@
-# Hey folks, I'm NKM 👋
+# Hey, I’m NKM 👋
 
-<div align="left">
-
-**Salesforce Developer** • **Full-Stack Engineer**
-
-*Crafting scalable solutions at the intersection of Salesforce and modern web technologies*
+**Salesforce Developer**  
+*building scalable systems, with experience across full-stack and applied AI*
 
 ---
 
-## 🚀 What I Do
+### 👨‍💻 About
 
-Currently building innovative solutions on the **Salesforce platform** with expertise in:
-- **Apex** development and **Lightning Web Components**
-- **Sales & Service Cloud** solutions & implementations
-- **Omnistudio** worked on no-code tools
-
-When I'm not in the Salesforce ecosystem, I'm working with **React**, **Node.js**, and exploring the latest in cloud architecture.
+I work primarily on the Salesforce platform, designing clean, reliable, and maintainable solutions.  
+I also build APIs and services using modern backend frameworks and explore AI-assisted engineering where it adds real value.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🧩 Tech Stack
 
-<div align="left">
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=apex&logoColor=white" />
-<img src="https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Dataloader-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+#### Salesforce
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=flat&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=flat&logo=salesforce&logoColor=white)
 
----
+#### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-## 🌐 Let's Connect
+#### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nkmonlink)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dv1mosh)
+#### Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="left">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nkmongit&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkmongit&layout=compact&theme=transparent&hide_border=true" height="160"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nkmongit&show_icons=true&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nkmongit&theme=gotham&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkmongit&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="left">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nkmongit&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
-## 🔝 Top Contributed Repo
-
-<div align="left">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nkmongit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkmongit&theme=transparent&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 📜 Certifications
+### 🏆 GitHub Trophies
 
-[![Salesforce](https://img.shields.io/badge/Salesforce%20PD1-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](#)
-[![Heroku](https://img.shields.io/badge/Heroku%20Developer-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
-[![Agentforce Specialist](https://img.shields.io/badge/Agentforce%20Specialist-FFD700?style=for-the-badge&logo=star&logoColor=white)](#)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=nkmongit&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
-<div align="center">
+### 📜 Certifications
 
-*"Building bridges between Salesforce and the modern web"*
+- Salesforce Platform Developer I  
+- Heroku Developer  
+- Agentforce Specialist  
 
-</div>
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nkmonlink)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dv1mosh)
+
+---
+
+<sub>Focused on thoughtful engineering and continuous improvement.</sub>
